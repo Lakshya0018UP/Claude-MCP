@@ -11,4 +11,4 @@ This project provides a simple yet powerful weather data fetching server using t
 ## Modules Used
 - **httpx** - For making asynchronous HTTP requests to the NWS API.
 - **mcp[cli]** - For building and running the MCP server.
-- **uv** - Utility functions for various server operations.
+- **uv** - An extremely fast Python package and project manager.
