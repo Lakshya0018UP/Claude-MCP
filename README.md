@@ -14,4 +14,6 @@ This project provides a simple yet powerful weather data fetching server using t
 - **uv** - An extremely fast Python package and project manager.
 
 ## To run the File after Config
-- uv run weather.py
+```
+ uv run weather.py
+```
